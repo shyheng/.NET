@@ -1,0 +1,12 @@
+E:\Test_Window\bin\Debug\Test_Window.exe.config
+E:\Test_Window\bin\Debug\Test_Window.exe
+E:\Test_Window\bin\Debug\Test_Window.pdb
+E:\Test_Window\obj\Debug\Test_Window.csprojAssemblyReference.cache
+E:\Test_Window\obj\Debug\Test_Window.Form1.resources
+E:\Test_Window\obj\Debug\Test_Window.Properties.Resources.resources
+E:\Test_Window\obj\Debug\Test_Window.csproj.GenerateResource.cache
+E:\Test_Window\obj\Debug\Test_Window.csproj.CoreCompileInputs.cache
+E:\Test_Window\obj\Debug\Test_Window.exe
+E:\Test_Window\obj\Debug\Test_Window.pdb
+E:\Test_Window\obj\Debug\Test_Window.Fri.resources
+E:\Test_Window\obj\Debug\Test_Window.chat.resources
